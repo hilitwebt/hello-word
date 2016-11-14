@@ -1,0 +1,50 @@
+Last login: Mon Nov 14 14:36:15 on ttys000
+WebTechMacMini7:~ hilitb$ ls
+-n		Desktop		Downloads	Movies		Pictures
+Applications	Documents	Library		Music		Public
+WebTechMacMini7:~ hilitb$ cd Desktop/
+WebTechMacMini7:Desktop hilitb$ makdir projects
+-bash: makdir: command not found
+WebTechMacMini7:Desktop hilitb$ mkdir projects
+WebTechMacMini7:Desktop hilitb$ ls
+projects
+WebTechMacMini7:Desktop hilitb$ cd projects/
+WebTechMacMini7:projects hilitb$ git init
+Initialized empty Git repository in /Users/hilitb/Desktop/projects/.git/
+WebTechMacMini7:projects hilitb$ git status
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+WebTechMacMini7:projects hilitb$ vim README
+
+
+
+
+hello
+
+
+
+fake project
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+just checking some ..~                                                                               
+
+
+-- INSERT --
